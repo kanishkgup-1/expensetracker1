@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import './app.css'
 
 // 🏠 Expense Tracker Page
 function ExpenseTracker() {
